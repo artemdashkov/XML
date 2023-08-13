@@ -1,0 +1,25 @@
+<skills>
+    <testing_theory>
+        <skill>Test Design</skill>
+        <skill>Severity vs Priority</skill>
+        <skill>Other</skill>
+    </testing_theory>
+    <test_documentation>
+        <skill>Bug reports</skill>
+        <skill>Test_cases</skill>
+        <skill>Check Lists</skill>
+        <skill>Test Plans</skill>
+    </test_documentation>
+    <programming_languages>
+        <skill>SQL</skill>
+        <skill>JavaScript</skill>
+        <skill>Python</skill>
+    </programming_languages>
+    <web_testing>
+        <skill>Postman</skill>
+        <skill>Jenkins</skill>
+        <skill>DevTools</skill>
+        <skill>Jmeter</skill>
+        <skill>Docker</skill>
+    </web_testing>
+</skills>
