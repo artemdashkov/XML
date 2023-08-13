@@ -1,1 +1,7 @@
-
+<?xml version="1.1" encoding="UTF-8" ?>
+<bug_report>
+  <id>1</id>
+  <short_description>User cannot clear the form with "Clear" button</short_description>
+  <steps_to_reproduce>1.Open register form. 2.Type in filds "First name" any First name. 3.Push the button "Clear".</steps_to_reproduce>
+  <severity>4</severity>
+</bug_report>
